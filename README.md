@@ -8,3 +8,5 @@ first edit
 # git commit -m "주석"
 # git remote add origin "현 깃허브 repository 주소"
 # git push -u origin master -> 
+
+# 21-11-15 포트폴리오를 간결하게 확인하기 위해 폴더 정리
